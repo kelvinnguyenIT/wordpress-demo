@@ -24,6 +24,8 @@
 
 ## Chạy project trên sử dụng xampp
 
+* 📌 [Download Xampp](https://www.apachefriends.org/download.html)
+
 ## Tài liệu tham khảo
 
 ### Document

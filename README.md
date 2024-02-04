@@ -32,6 +32,6 @@
 ### Document
 
  * 📜 [Developer Resources](https://developer.wordpress.org/)
- * 📜 [WordPress ](https://vi.wordpress.org/)
+ * 📜 [WordPress.org](https://vi.wordpress.org/)
 
 **[⬆ Lên đầu trang](#tổng-quan)**

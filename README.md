@@ -9,7 +9,8 @@
 
 ## Giới thiệu
 
-- Ngôn ngữ: Wordpress CMC
+- Ngôn ngữ: PHP
+- CMS: Wordpress
 - Demo
 
 ## Tổng quan

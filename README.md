@@ -12,14 +12,11 @@
 - Ngôn ngữ: Wordpress CMC
 - Demo
 
----
-
 ## Tổng quan
 
 * **[Cài đặt Wordpress](#1-cài-đặt-wordpress)**
 * **[Chạy project trên](#2-chạy-project-trên)**
 * **[Tài liệu tham khảo](#3-tài-liệu-tham-khảo)**
----
 
 ## Cài đặt Wordpress
 

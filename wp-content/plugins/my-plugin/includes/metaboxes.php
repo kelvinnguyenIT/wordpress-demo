@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ERROR | E_PARSE);
+
 add_action('add_meta_boxes', 'my_plugin_meta_box_sport');
 
 add_action('save_post', 'my_plugin_save_sport');
